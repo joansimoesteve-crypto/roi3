@@ -1,4 +1,0 @@
-{
-  "buildCommand": "cp extension/content.js public/avatar.js",
-  "outputDirectory": "public"
-}
